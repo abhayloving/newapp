@@ -1,4 +1,3 @@
 # newapp
  
-file1
-file2
+This helps to new apps
